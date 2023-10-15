@@ -5,7 +5,7 @@ from tkinter import Tk, Entry, Button, Text, Scrollbar
 
 class Chatbot:
     def __init__(self, window):
-        window.title('Sanatan🚩 Assitant')
+        window.title('Jarvis Assitant')
         window.geometry('405x400')
         window.resizable(0, 0)
         self.message_session = Text(window, bd=3, relief="flat", font=(

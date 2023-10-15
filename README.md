@@ -1,6 +1,6 @@
-# Sanatan🚩 Assistant
+# Jarvis Assistant
 
-Sanatan Assistant is a chatbot built with Python and Tkinter. It uses a JSON file as its knowledge base to provide responses to user queries.
+Jarvis Assistant is a chatbot built with Python and Tkinter. It uses a JSON file as its knowledge base to provide responses to user queries.
 
 ## Tech Stack
 
@@ -65,4 +65,3 @@ We welcome contributions from the community. If you wish to contribute, please f
 If you encounter any issues or have any feature requests, please open an issue on GitHub.
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
-
